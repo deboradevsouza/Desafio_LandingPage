@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(42, 72, 97);
+    text-align: center;
+}
+
+
+
+.banner {
+    background-image: url('./assets/images/banner.png');
+    background-size: 100%;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.logo {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, .2);
+    height: 260px;
+    width: 260px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+h1 {
+    color: rgb(151, 229, 248);
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+p {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+
